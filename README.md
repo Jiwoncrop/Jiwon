@@ -1,6 +1,6 @@
 # Resume 2023.9
 
-### [김지원](https://drive.google.com/file/d/1GdQZHFf0WiwsYux70i9Litzi8WLi3k14/view?usp=drive_link/)
+### [김지원]([https://github.com/Jiwoncrop/Jiwon/assets/144309973/5bcec286-d55e-4826-af3b-9d2cc2cf161e/)
 <img src="./static/profile.jpeg" width="100px">
 
 ---
