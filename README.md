@@ -1,8 +1,7 @@
 # Resume 2023.9
 
-### [김지원]
-![initial](https://github.com/Jiwoncrop/Jiwon/issues/2#issue-1904216451)
-
+### 김지원
+<img src="https://github.com/Jiwoncrop/Jiwon/issues/2#issue-1904216451.png" width="200" height="400"/>
 
 ---
 
