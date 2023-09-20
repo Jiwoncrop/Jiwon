@@ -1,7 +1,7 @@
 # Resume 2023.9
 
 ### 김지원
-<img src="https://github.com/Jiwoncrop/Jiwon/assets/144309973/2aad5cf0-83ae-4b99-a4ca-20d82feed87a.png" width="200" height="400"/>
+<img src="https://github.com/Jiwoncrop/Jiwon/assets/144309973/2aad5cf0-83ae-4b99-a4ca-20d82feed87a.png" width="300" height="400"/>
 
 ---
 
